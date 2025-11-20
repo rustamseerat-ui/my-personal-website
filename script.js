@@ -1,3 +1,3 @@
 document.getElementById('clickMe').addEventListener('click', function() {
-    alert('Hello! Thanks for visiting my website!');
+    alert('Welcome to Afghanistan Monitor! Stay informed about latest developments.');
 });
